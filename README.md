@@ -2,9 +2,9 @@
 Projeto de Sistemas Operativos
 
 # Grupo 28
-Luís Ferreirinha 51127
-Nuno Infante 55411
-Qunbo Wang 51633
+  Luís Ferreirinha 51127
+  Nuno Infante 55411
+  Qunbo Wang 51633
 
 # Exemplo de execução
 Para o ficheiro pgrepwc_processos.py:
