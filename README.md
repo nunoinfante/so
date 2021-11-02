@@ -6,7 +6,7 @@ Luís Ferreirinha 51127
 Nuno Infante 55411
 Qunbo Wang 51633
 
-#Exemplo de execução
+# Exemplo de execução
 Para o ficheiro pgrepwc_processos.py:
   python3 pgrepwc_processos.py [-a] [-c|-l] [-p n] {palavras} [-f ficheiros]
 
